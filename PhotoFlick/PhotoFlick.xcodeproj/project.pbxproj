@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1E5884BB29D1D1E200D56F3F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5884BA29D1D1E200D56F3F /* AppDelegate.swift */; };
-		1E5884BD29D1D1E200D56F3F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5884BC29D1D1E200D56F3F /* SceneDelegate.swift */; };
 		1E5884BF29D1D1E200D56F3F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5884BE29D1D1E200D56F3F /* ViewController.swift */; };
 		1E5884C229D1D1E200D56F3F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E5884C029D1D1E200D56F3F /* Main.storyboard */; };
 		1E5884C429D1D1E300D56F3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E5884C329D1D1E300D56F3F /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		1E5884B729D1D1E200D56F3F /* PhotoFlick.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotoFlick.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5884BA29D1D1E200D56F3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1E5884BC29D1D1E200D56F3F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		1E5884BE29D1D1E200D56F3F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1E5884C129D1D1E200D56F3F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1E5884C329D1D1E300D56F3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 				1E5884D129D1D4DD00D56F3F /* Utils */,
 				1E5884DC29D1D62000D56F3F /* Common */,
 				1E5884D229D1D4E400D56F3F /* Modules */,
-				1E5884BC29D1D1E200D56F3F /* SceneDelegate.swift */,
 				1E5884BE29D1D1E200D56F3F /* ViewController.swift */,
 				1E5884C029D1D1E200D56F3F /* Main.storyboard */,
 			);
@@ -260,7 +257,6 @@
 			files = (
 				1E5884BF29D1D1E200D56F3F /* ViewController.swift in Sources */,
 				1E5884BB29D1D1E200D56F3F /* AppDelegate.swift in Sources */,
-				1E5884BD29D1D1E200D56F3F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
